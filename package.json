@@ -1,0 +1,36 @@
+{
+  "name": "http-content-range-format",
+  "version": "1.0.0",
+  "description": "Format HTTP Content-Range headers, RFC 7233 compilant.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test-bg": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/purposeindustries/node-http-content-range-format"
+  },
+  "keywords": [
+    "http",
+    "range",
+    "content-range",
+    "format"
+  ],
+  "author": "Purpose Industries <dev@purposeindustries.co>",
+  "contributors": [
+    {
+      "name": "Bence Dányi",
+      "email": "bd@purposeindustries.co"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/purposeindustries/node-http-content-range-format/issues"
+  },
+  "homepage": "https://github.com/purposeindustries/node-http-content-range-format",
+  "devDependencies": {
+    "mocha": "^1.20.1",
+    "should": "^4.0.4"
+  }
+}
