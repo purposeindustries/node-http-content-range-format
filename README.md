@@ -1,4 +1,4 @@
-# http-content-range-format
+# http-content-range-format [![Build Status](https://travis-ci.org/purposeindustries/node-http-content-range-format.svg)](https://travis-ci.org/purposeindustries/node-http-content-range-format)
 
 Format HTTP Content-Range headers, RFC7233 compilant.
 
